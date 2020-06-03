@@ -21,6 +21,4 @@ the final line purpose is to update README from github interface.
 
 # 0x04. Professional Technologies
 
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-update
+Update 2
